@@ -1,0 +1,9 @@
+:root {
+  font-family: "Kanit", sans-serif;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box; /* Ensures padding doesn't affect width/height */
+}
